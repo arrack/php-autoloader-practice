@@ -1,0 +1,7 @@
+{
+    "autoload": {
+        "psr-0": {
+            "Arrack\\Hello": "src"
+        }
+    }
+}
