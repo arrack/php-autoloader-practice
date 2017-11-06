@@ -1,0 +1,18 @@
+{
+    "autoload": {
+        "psr-0": {
+            "Arrack\\Hello\\": "src/psr0/"
+        },
+        "psr-4": {
+            "Arrack\\Hello\\": "src/psr4/"
+        },
+        "classmap": [
+            "src/classmap/"
+        ]
+    },
+    "autoload-dev": {
+        "classmap": [
+            "src/dev/classmap/"
+        ]
+    }
+}
